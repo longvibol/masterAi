@@ -1,0 +1,40 @@
+1- download ollama 
+
+https://ollama.com/
+
+2- command 
+
+check version :
+
+>> ollama 
+
+3- download model 
+
+>>ollama run gemma3:270m
+
+ex:
+
+hi there, 
+
+4- to exist 
+
+Ctlt + d = exit 
+
+
+4- download pi3 model 
+
+go to website olama then find the movel 
+
+>> olama run phi3:latest
+
+
+
+
+
+
+
+
+
+
+
+
