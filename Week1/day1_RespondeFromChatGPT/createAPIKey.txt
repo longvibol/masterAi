@@ -1,0 +1,3 @@
+Go to website : https://platform.openai.com/settings/organization/billing/overview
+- api-keys --> Create new secret key --> Selected Default project
+

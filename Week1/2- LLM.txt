@@ -1,0 +1,108 @@
+LLM :
+
+1- System prompt = instructions for the AI itself
+
+It defines:
+
+Who the AI should behave like
+
+What rules it must follow
+
+Style, tone, format
+
+Restrictions and priorities
+
+👉 The user usually does not see this directly.
+
+Example :
+
+You are a helpful Python tutor.
+Explain concepts in simple English.
+Always give code examples.
+Do not exceed 150 words.
+
+==> Effect:
+
+The model will answer like a teacher
+
+Keep responses short
+
+Focus on Python explanations
+
+
+2- User prompt = the actual question or request from the user
+
+What is a Python list?
+
+The model answers based on:
+
+👉 System prompt rules
+👉 + Your user prompt content
+
+
+---------------------------------------------
+
+Simple Analogy:
+
+
+| Role          | Real-life comparison                  |
+| ------------- | ------------------------------------- |
+| System Prompt | Company policy / teacher instructions |
+| User Prompt   | Customer question / student question  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
